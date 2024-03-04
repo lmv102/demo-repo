@@ -1,2 +1,2 @@
-# demo-repo
+# Demo
 Leah Vaughans demo for design 1 skilll builder part 1.
